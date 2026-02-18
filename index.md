@@ -104,7 +104,7 @@ $$
 
 # 00
 <!-- Solo figure (responsive width) -->
-<div style="max-width: 70%; margin: 2rem auto; padding: 1.5rem; background: linear-gradient(145deg, #f8f9fa, #ffffff); border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.07), 0 1px 3px rgba(0,0,0,0.06);">
+<div style="max-width: 35%; margin: 2rem auto; padding: 1.5rem; background: linear-gradient(145deg, #f8f9fa, #ffffff); border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.07), 0 1px 3px rgba(0,0,0,0.06);">
   <figure style="margin: 0;">
     <div style="overflow: hidden; border-radius: 8px; background: #fff;">
       <img 
